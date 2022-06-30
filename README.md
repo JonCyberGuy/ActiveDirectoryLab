@@ -1,7 +1,7 @@
 <h1>Active Directory Home Lab Setup With Bulk User Creation</h1>
 
 <h2>Description</h2>
-This project is a walkthrough of how I created an Active Directory home lab Environment using VMWare. Then on the domain controller, I'm going to run a powershell script that will create about 1000 users in Active Directory.
+This project is a walkthrough of how I created an Active Directory home lab Environment using VMWare. I set up a Microsoft Server to run Active Directory on it. I then configure a Domain Controller that will allow me to run a domain. After that I ran a Powershell script to create over 1000 users in Active Directory and proceed to log into those newly created accounts on another client that uses the domain I set up to connect to the internet. This lab simulates a business environment.
 <br />
 
 
