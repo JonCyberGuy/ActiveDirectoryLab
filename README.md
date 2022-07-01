@@ -20,7 +20,7 @@ This project is a walkthrough of how I created an Active Directory home lab Envi
 
 <p align="center">
 <b>The network diagram I'll be using</b> <br/>
-<img src="https://photos.google.com/u/5/photo/AF1QipNPGLHRyroOQZAvvNkO3G4zjSkPWXVCZ4qlRNae" height="80%" width="80%" alt="Network Diagram"/>
+<img src="(https://photos.google.com/u/5/photo/AF1QipNPGLHRyroOQZAvvNkO3G4zjSkPWXVCZ4qlRNae](https://photos.app.goo.gl/ZiE6dNpK82xL7Jyb7)" height="80%" width="80%" alt="Network Diagram"/>
 <br />
 <br />
 Select the disk:  <br/>
