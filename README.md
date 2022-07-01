@@ -106,6 +106,12 @@ https://user-images.githubusercontent.com/108043108/176962663-866da4fd-de06-4549
 
 <br />
 <br />
+<b>To get my powershell script from the internet I need to be able to browse the web. I have to disable the security features on the Domain Controller. If this was an actual production environment I would never do this, security risk. Since this is only a lab environment for myself it is not an issue. I could browse the internet without doing this step but it is annoying because it will spam us warnings for every webpage we visit</b> <br/>
+
+https://user-images.githubusercontent.com/108043108/176964588-4b7ab303-c338-4037-8142-996bde30cac3.mp4
+
+<br />
+<br />
 <b>Now that Active Directory is configured and my Domain Controller is configured as well, I use a Powershell script to create over 1000 user accounts</b> <br/>
 <img src="https://i.imgur.com/ISI6fPb.jpg" height="80%" width="80%" alt="Using Powershell to create 1000 user accounts in bulk"/>
 <br />
@@ -140,7 +146,7 @@ https://user-images.githubusercontent.com/108043108/176953922-60b62f24-fd3f-41b4
 <img src="https://i.imgur.com/dPeaySX.gif" height="80%" width="80%" alt="Testing The Environment"/>
 <br />
 <br />
-<b>Running command promt to see if the client VM is getting the IP address properly assigned by the DC Server. We can see that I was properly leased an IP address by the domain controller (circled red) and when I ping the domain, it works (circled yellow)</b>  <br/>
+<b>Running command promt to see if the client VM is getting the IP address properly assigned by the DC. We can see that I was properly leased an IP address by the domain controller (circled red) and when I ping the domain, it works (circled yellow)</b>  <br/>
 <img src="https://i.imgur.com/QBWuCS9.jpg" height="80%" width="80%" alt="Testing The Environment"/>
 <br />
 <br />
