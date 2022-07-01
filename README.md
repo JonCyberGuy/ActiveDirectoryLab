@@ -19,8 +19,8 @@ This project is a walkthrough of how I created an Active Directory home lab Envi
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<b>The network diagram I'll be using</b> <br/>
+<img src="https://photos.google.com/u/5/photo/AF1QipNPGLHRyroOQZAvvNkO3G4zjSkPWXVCZ4qlRNae" height="80%" width="80%" alt="Network Diagram"/>
 <br />
 <br />
 Select the disk:  <br/>
