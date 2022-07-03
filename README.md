@@ -130,7 +130,7 @@ https://user-images.githubusercontent.com/108043108/176953922-60b62f24-fd3f-41b4
 <img src="https://i.imgur.com/wvBRBWf.jpg" height="80%" width="80%" alt="Setting up new Virtual Machine"/>
 <br />
 <br />
-<b>I configure the network adapter so that it is not NAT and can't connect to the internet on my network. The only way this Virtual Machine should be able to connect to the internet is by being assigned an IP from the DC on the Server VM. Refer to the Diagram at the beginning. I have to change the network adapter to be on the same internal network as the Domain Controller, in this case VMnet0</b>  <br/>
+<b>I configure the network adapter so that it is not NAT and can't connect to the internet on my local network. The only way this Virtual Machine should be able to connect to the internet is by being assigned an IP from the DC on the Server VM. Refer to the Diagram at the beginning. I have to change the network adapter to be on the same internal network as the Domain Controller, in this case VMnet0</b>  <br/>
 <img src="https://i.imgur.com/6IjDUEj.jpg" height="80%" width="80%" alt="Configuring the VM Network Adapter"/>
 <br />
 <br />
