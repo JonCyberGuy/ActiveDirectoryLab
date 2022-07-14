@@ -16,7 +16,7 @@ This project is a walkthrough of how I created an Active Directory home lab Envi
 - <b>Microsoft Server 2019</b>
 - <b>Windows 10</b> (21H2)
 
-<h2>Program walk-through</h2>
+<h2 align="center">Program walk-through</h2>
 
 <p align="center">
 <b>The network diagram I'll be using for this project</b> <br/>
