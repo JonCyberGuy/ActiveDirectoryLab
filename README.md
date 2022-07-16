@@ -193,7 +193,7 @@ https://user-images.githubusercontent.com/108043108/176953922-60b62f24-fd3f-41b4
 <br />
 <br />
 <p align="center">
-<b>I head back into my server VM and check the DCHP to see how many addresses has been leased. We can see here circled in red that my CLIENT1 Virtual Machine has been leased an address. If this was a real company environment there would be hudreds, if not thousands of leased addresses in this folder depending on what the lease duration is of course! I set mine to 20 days in this environment</b>  <br/>
+<b>I head back into my server VM and check the DCHP to see how many addresses has been leased. We can see here circled in red that my CLIENT1 Virtual Machine has been leased an address. If this was a real company environment there would be hundreds, if not thousands of leased addresses in this folder depending on what the lease duration is of course! I set mine to 20 days in this environment</b>  <br/>
 </p>
 <img src="https://i.imgur.com/qvNKa7v.jpg" height="80%" width="80%" alt="Checking leased addresses"/>
 <br />
