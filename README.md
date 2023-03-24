@@ -17,6 +17,7 @@ This project is a walkthrough of how I created an Active Directory home lab Envi
 - <b>Windows 10</b> (21H2)
 
 <h2>Links</h2>
+
 - <b>VMWare:</b> https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
 - <b>Microsoft Server 2019:</b> https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
 - <b>Windows 10 ISO:</b> https://www.microsoft.com/en-us/software-download/windows10
